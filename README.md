@@ -1,5 +1,5 @@
 
-![logo](https://github.com/nooradil67/nooradil67/blob/main/images%20(16).png)
+![logo](https://github.com/nooradil67/nooradil67/blob/main/WhatsApp%20Image%202025-04-06%20at%2013.53.34_10848d52.jpg)
 <h1 align="center">Hi 👋, I'm MahNoor Adil Dar</h1>
 <h3 align="center">A passionate Python Developer From Pakistan</h3>
 
